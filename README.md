@@ -1,5 +1,5 @@
 # Hello Everyone 👋
-
+[![Sai Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sai-Krishna-18)](https://github.com/Sai-Krishna-18/github-readme-stats)
 
 <!--
 **Sai-Krishna-18/Sai-Krishna-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
